@@ -43,4 +43,4 @@ function broadcast(message, client){
 	}
 }
 
-chatServer.listen(9000)
+chatServer.listen(80)
